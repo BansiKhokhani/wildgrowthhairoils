@@ -1,0 +1,37 @@
+.hero-bg {
+  position: relative;
+  margin-top:4rem
+}
+.slider-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.slider-slide {
+  width: 100%;
+  height: auto; /* Maintain aspect ratio */
+  flex:1
+}
+
+.slider-dots {
+  flex:1;
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* Space between dots */
+  margin-top: 10px; /* Add spacing between the image and dots */
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ccc;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.dot.active {
+  background-color: #000; /* Highlight active dot */
+}
