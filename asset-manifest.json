@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea7c4776.css",
-    "main.js": "/static/js/main.63bb7fb7.js",
-    "static/media/How To Use.png": "/static/media/How To Use.e63243d16e1f7f23676f.png",
-    "static/media/wildGrowthOilsFrontImage1.png": "/static/media/wildGrowthOilsFrontImage1.0e7b4cbbf0e3405af084.png",
-    "static/media/wildGrowthOilsFrontImage2.png": "/static/media/wildGrowthOilsFrontImage2.02bffadbdabf8bca99b5.png",
-    "static/media/Ingredients mocks.png": "/static/media/Ingredients mocks.7df2084b75768a165371.png",
-    "static/media/wildGrowthOilsFrontImage3.png": "/static/media/wildGrowthOilsFrontImage3.47af3f5cbc20b2b08a1c.png",
-    "static/media/HAIR GROWTH.png": "/static/media/HAIR GROWTH.4f418262deb5e32c418e.png",
-    "static/media/Benifits of oil.png": "/static/media/Benifits of oil.a1949e56c87c2650d83f.png",
-    "static/media/wildGrowthOilsLogo.png": "/static/media/wildGrowthOilsLogo.aff72b8004c1ec305e6a.png",
-    "static/media/profile.png": "/static/media/profile.03961758fc894ce1fd2d.png",
-    "index.html": "/index.html",
-    "main.ea7c4776.css.map": "/static/css/main.ea7c4776.css.map",
-    "main.63bb7fb7.js.map": "/static/js/main.63bb7fb7.js.map"
+    "main.css": "/wildgrowthhairoils/static/css/main.ea7c4776.css",
+    "main.js": "/wildgrowthhairoils/static/js/main.b461b9e9.js",
+    "static/media/How To Use.png": "/wildgrowthhairoils/static/media/How To Use.e63243d16e1f7f23676f.png",
+    "static/media/wildGrowthOilsFrontImage1.png": "/wildgrowthhairoils/static/media/wildGrowthOilsFrontImage1.0e7b4cbbf0e3405af084.png",
+    "static/media/wildGrowthOilsFrontImage2.png": "/wildgrowthhairoils/static/media/wildGrowthOilsFrontImage2.02bffadbdabf8bca99b5.png",
+    "static/media/Ingredients mocks.png": "/wildgrowthhairoils/static/media/Ingredients mocks.7df2084b75768a165371.png",
+    "static/media/wildGrowthOilsFrontImage3.png": "/wildgrowthhairoils/static/media/wildGrowthOilsFrontImage3.47af3f5cbc20b2b08a1c.png",
+    "static/media/HAIR GROWTH.png": "/wildgrowthhairoils/static/media/HAIR GROWTH.4f418262deb5e32c418e.png",
+    "static/media/Benifits of oil.png": "/wildgrowthhairoils/static/media/Benifits of oil.a1949e56c87c2650d83f.png",
+    "static/media/wildGrowthOilsLogo.png": "/wildgrowthhairoils/static/media/wildGrowthOilsLogo.aff72b8004c1ec305e6a.png",
+    "static/media/profile.png": "/wildgrowthhairoils/static/media/profile.03961758fc894ce1fd2d.png",
+    "index.html": "/wildgrowthhairoils/index.html",
+    "main.ea7c4776.css.map": "/wildgrowthhairoils/static/css/main.ea7c4776.css.map",
+    "main.b461b9e9.js.map": "/wildgrowthhairoils/static/js/main.b461b9e9.js.map"
   },
   "entrypoints": [
     "static/css/main.ea7c4776.css",
-    "static/js/main.63bb7fb7.js"
+    "static/js/main.b461b9e9.js"
   ]
 }
