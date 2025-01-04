@@ -18,9 +18,9 @@ export interface Product {
       description: "Premium blend of natural oils for maximum hair growth",
       rating: 5,
       image: {
-        small: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/Benifits of oil.png'),
-        medium: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/Benifits of oil.png'),
-        large: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/Benifits of oil.png')
+        small: require('../assets/images/products/Benifits of oil.png'),
+        medium: require('../assets/images/products/Benifits of oil.png'),
+        large: require('../assets/images/products/Benifits of oil.png')
       },
       size: "large"
   },
@@ -30,9 +30,9 @@ export interface Product {
     description: "Premium blend of natural oils for maximum hair growth",
     rating: 5,
     image: {
-      small: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/HAIR GROWTH.png'),
-      medium: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/HAIR GROWTH.png'),
-      large: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/HAIR GROWTH.png')
+      small: require('../assets/images/products/HAIR GROWTH.png'),
+      medium: require('../assets/images/products/HAIR GROWTH.png'),
+      large: require('../assets/images/products/HAIR GROWTH.png')
     },
     size: "large"
 },
@@ -42,9 +42,9 @@ export interface Product {
   description: "Premium blend of natural oils for maximum hair growth",
   rating: 5,
   image: {
-    small: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/How To Use.png'),
-    medium: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/How To Use.png'),
-    large: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/How To Use.png')
+    small: require('../assets/images/products/How To Use.png'),
+    medium: require('../assets/images/products/How To Use.png'),
+    large: require('../assets/images/products/How To Use.png')
   },
   size: "large"
 },
@@ -54,9 +54,9 @@ export interface Product {
   description: "Premium blend of natural oils for maximum hair growth",
   rating: 5,
   image: {
-    small: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/Ingredients mocks.png'),
-    medium: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/Ingredients mocks.png'),
-    large: require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/products/Ingredients mocks.png')
+    small: require('../assets/images/products/Ingredients mocks.png'),
+    medium: require('../assets/images/products/Ingredients mocks.png'),
+    large: require('../assets/images/products/Ingredients mocks.png')
   },
   size: "large"
 },

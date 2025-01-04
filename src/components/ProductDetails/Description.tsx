@@ -1,5 +1,5 @@
 import React from 'react';
-const hair_growthImage:any=require('C:/FinalWebsites/wildgrowthhairoils/src/assets/images/about/HAIR GROWTH.png');
+const hair_growthImage:any=require('../../assets/images/about/HAIR GROWTH.png');
 export const Description = () => (
   <div className="description-content">
     <div className="description-image">
